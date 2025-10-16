@@ -1,4 +1,4 @@
-# 🚀 energiecopilot · Projektvorstellung
+# 🚀 Energiecopilot · Projektvorstellung
 
 > ⚠️ Dieses Showcase befindet sich noch im Aufbau.  
 > Screenshots, Code-Snippets und eine ausführlichere Dokumentation folgen in Kürze.
@@ -7,16 +7,16 @@
 
 ## 📌 Überblick
 
-**Energiecopilot** ist eine **Process Management Platform**, entwickelt als Next.js-Anwendung mit lokalem Server und Integration in den Cloud-Storage-Anbieter **pCloud**.  
+Energiecopilot ist eine Webplattform für Projekt- und Prozessorganisation, entwickelt als Next.js-Anwendung mit lokalem Server und Integration in den Cloud-Storage-Anbieter pCloud.  
 Das Ziel: Projekte verwalten, Dateien teilen und mit Vorlagen arbeiten – alles über eine intuitive Weboberfläche.
 
 ---
 
 ## 🛠 Tech-Stack
 
-- **Frontend**: Next.js · React · TypeScript  
-- **Backend / API**: Node.js · MongoDB  
-- **Integration**: pCloud API  
+- **Frontend**: React · TypeScript  
+- **Backend / API**: Next.js · TypeScript · MongoDB  
+- **Integration**: pCloud API
 
 ---
 
@@ -24,20 +24,20 @@ Das Ziel: Projekte verwalten, Dateien teilen und mit Vorlagen arbeiten – alles
 
 - Projektbasierte Verwaltung von Dateien und Vorlagen  
 - Integration mit pCloud (Upload, Sharing, Sync)  
-- Intuitive UI für Projekt- und Teamworkflows  
+- Intuitive UI für Projektworkflow
 
 ---
 
 ## 🤔 Challenges
 
-- Lückenhafte Dokumentation der pCloud-API und eine fehlerhafte Windows Integration der pCloud Software erforderten eigene Workarounds.  
-- Rechte- und Sharing-Logiken mussten individuell bzw. Kundengerecht geplant und implementiert werden.  
+- Lückenhafte Dokumentation und Entwicklung der pCloud-API und eine fehlerhafte Windows Integration der pCloud Software erforderten eigene Workarounds.  
+- Rechte- und Sharing-Logiken mussten individuell bzw. Kundengerecht geplant und implementiert werden.
 
 ---
 
 ## 📚 Learnings
 
-- Umgang mit unvollständiger API-Dokumentation und pCLoud Software → pragmatische Fixes & Workarounds.  
+- Fixes & Workarounds für pCloud-Software- und API-Probleme
 - Aufbau projektbasierter Rechte- und Sharing-Systeme.  
 
 ---
@@ -46,7 +46,6 @@ Das Ziel: Projekte verwalten, Dateien teilen und mit Vorlagen arbeiten – alles
 
 - [ ] Screenshots der Anwendung ergänzen  
 - [ ] Beispiel-Code-Snippets veröffentlichen  
-- [ ] Demo-Setup für Interessierte bereitstellen  
 
 ---
 
